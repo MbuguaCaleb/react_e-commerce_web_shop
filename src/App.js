@@ -1,13 +1,10 @@
 import React from 'react'
+import Products from './Products/Products'
 
-function App() {
+const App = () => {
   return (
     <div>
-      <h1>Beginning the Project</h1>
-      <p>
-        jkhjkhjkhkjhkjh
-      </p>
-      
+      <Products/>
     </div>
   )
 }
